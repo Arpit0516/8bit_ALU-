@@ -10,6 +10,9 @@ The ALU performs various arithmetic and logical operations based on the given op
 - Zero flag detection
 - Enable control for ALU operation
 - Verified using a Verilog testbench with waveform simulation
+ ![ALU BLOCK](ALU Block.png)
+
+  
 
 ## Operations Supported
 - Addition
