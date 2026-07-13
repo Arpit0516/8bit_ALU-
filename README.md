@@ -31,7 +31,7 @@ The ALU performs various arithmetic and logical operations based on the given op
 - `testbench.sv` - Testbench for functional verification
 
 ## Output Verification
-![ALU BLOCK](ALU block.png)
+![ALU BLOCK](ALU_block.png)
 
 ![ALU Output Waveform](ALU_8bits.png)
 
