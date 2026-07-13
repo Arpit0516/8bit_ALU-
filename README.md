@@ -10,7 +10,6 @@ The ALU performs various arithmetic and logical operations based on the given op
 - Zero flag detection
 - Enable control for ALU operation
 - Verified using a Verilog testbench with waveform simulation
- ![ALU BLOCK](ALU Block.png)
 
   
 
@@ -32,6 +31,8 @@ The ALU performs various arithmetic and logical operations based on the given op
 - `testbench.sv` - Testbench for functional verification
 
 ## Output Verification
+![ALU BLOCK](ALU block.png)
+
 ![ALU Output Waveform](ALU_8bits.png)
 
 The design was tested with multiple input combinations and verified using simulation waveforms.
